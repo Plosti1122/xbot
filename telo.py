@@ -6,15 +6,12 @@ import _thread
 import schedule
 from bs4 import BeautifulSoup
 import requests
-import requests
 import urllib.request as urllib2
 import time
 import threading
 import _pickle as pickle
 import flask
 from flask import Flask
-from bs4 import BeautifulSoup
-import requests
 
 bot = telebot.TeleBot(token)
 
