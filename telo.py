@@ -15,8 +15,8 @@ from flask import Flask
 
 bot = telebot.TeleBot(token)
 
-# TOKEN = '703423813:AAH3b6jnzRVlQn1gSCvgi8diMl5NkheLHGY'  ### Тут токен
-# WEBHOOK_HOST = '185.86.76.74'  #### Тут IP
+# TOKEN = ''  ### Тут токен
+# WEBHOOK_HOST = ''  #### Тут IP
 # WEBHOOK_PORT = 88  # 443, 80, 88 или 8443 (порт должен быть открыт!)
 # WEBHOOK_LISTEN = '0.0.0.0'
 #
